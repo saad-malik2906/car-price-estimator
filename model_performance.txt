@@ -1,0 +1,2 @@
+Random Forest MAE: 61067.39
+Random Forest RMSE: 107754.42
